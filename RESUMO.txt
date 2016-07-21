@@ -1,0 +1,8 @@
+Um sistema desenvolvido para o processo seletivo de estágio em desenevolmento da empresa ValeMobi, contém três páginas, sendo as seguintes: 
+* Home Page: A página principal, sendo a primeira página para explicar um pouco sobre o sistema o que ele faz quais são seus processos e fases de como ele irá funcionar.
+* Cadastro de Mercadorias: Cadastra as mercadorias através dos campos que formulário está disponibilizando para o usuário.
+* Listagem de Mercadorias: Faz a listagem das mercadorias que estão cadastradas no banco de dados, o Banco MySQL.
+
+
+
+ 
